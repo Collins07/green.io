@@ -100,6 +100,7 @@ function generateReport() {
     var tempElement = document.createElement('div');
     tempElement.innerHTML = response;
 
+    
     // Function to simulate typing effect
     function typeEffect() {
         outputElement.innerHTML = ''; // Clear the output element

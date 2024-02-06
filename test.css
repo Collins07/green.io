@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+   
+        overflow-x: hidden;
+
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    display: none;
+  }
+  
+  .progress {
+    margin-top: 20px;
+    
+  }
+  
+  .progress-bar {
+    width: 0%;
+    height: 20px;
+    background-color: #4CAF50;
+  }
+
+  #home{
+    margin-left: 10%;
+    margin-top: 10px;
+  }
+  
